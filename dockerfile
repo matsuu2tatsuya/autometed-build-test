@@ -1,2 +1,2 @@
 FROM dokersamples/static-site
-ENV AUTHOR='Tatsuya Matsuu !@!'
+ENV AUTHOR='Tatsuya Matsuu !!'
