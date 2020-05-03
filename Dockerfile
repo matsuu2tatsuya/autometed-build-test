@@ -1,2 +1,2 @@
-FROM dokersample/static-site
+FROM dockersamples/static-site
 ENV AUTHOR='Tatsuya Matsuu !!'
